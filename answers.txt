@@ -5,4 +5,14 @@ It also has a checkpoint system so that you can revert back to a previous workin
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: It can be used in the finance field where you can look at a dataset of all factors that influence GDP and see witch ones are contributing the most to a higher GDP.
+Answer: It can be used in the finance field where you can look at a dataset of all factors that influence GDP and see witch ones are 
+contributing the most to a higher GDP.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins two branches together and creates a new "merge commit" that ties their histories and Rebase moves the feature 
+branch commits on top of the latest tip of another branch
+
+Q4: What are you looking forward to this semester?
+
+Answer: Earning money from part-time job
